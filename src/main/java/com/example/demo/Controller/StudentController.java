@@ -8,6 +8,8 @@ public class StudentController {
     @GetMapping
     public String getStudent(){
         System.out.println("============ Get Student Executed ============");
+        System.out.println("============ ");
+        System.out.println("this is from develope");
         return "</br></br></br><h1 style='color:red;text-align:center;'>Hi you are able to get Student Successfully</h1>";
     }
 }
