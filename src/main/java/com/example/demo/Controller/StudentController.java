@@ -9,7 +9,7 @@ public class StudentController {
     public String getStudent(){
         System.out.println("============ Get Student Executed ============");
         System.out.println("============ ");
-        System.out.println("this is from develope");
-        return "</br></br></br><h1 style='color:red;text-align:center;'>Hi you are able to get Student Successfully</h1>";
+        System.out.println("this  is from develope");
+        return "</br></br></br><h1 style='color:red;text-align:center;'>Hi this code is changed by featurBranch2</h1>";
     }
 }
