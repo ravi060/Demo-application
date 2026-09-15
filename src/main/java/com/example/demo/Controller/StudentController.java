@@ -12,6 +12,7 @@ public class StudentController {
         System.out.println("============ Get Student Executed ============");
         System.out.println("============ ");
         System.out.println("this  is from develope");
+        System.out.println("this is check for git pull");
         return "</br></br></br><h1 style='color:red;text-align:center;'>Hi this code is changed by featurBranch2</h1>";
     }
 }
