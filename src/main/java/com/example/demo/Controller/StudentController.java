@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
     @RequestMapping
 public class StudentController {
+    // method for getting list of from develope
     @GetMapping
     public String getStudent(){
         System.out.println("============ Get Student Executed ============");
